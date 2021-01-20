@@ -1,0 +1,382 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "save",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"save",
+					""
+				],
+				[
+					"Packages/MarkdownPreview/Markdown.sublime-build",
+					""
+				]
+			],
+			[
+				"save",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 227.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ryz/Google Drive (rjenvey@thoughtworks.com)/notes",
+		"/Users/ryz/Google Drive (rjenvey@thoughtworks.com)/notes/config",
+		"/Users/ryz/Google Drive (rjenvey@thoughtworks.com)/notes/development"
+	],
+	"file_history":
+	[
+		"/Users/ryz/Google Drive (rjenvey@thoughtworks.com)/notes/development/development.md",
+		"/Users/ryz/Google Drive (rjenvey@thoughtworks.com)/notes/development/tl-playbook.md",
+		"/Users/ryz/Google Drive (rjenvey@thoughtworks.com)/notes/development/cultivation-stefan.md",
+		"/Users/ryz/Google Drive (rjenvey@thoughtworks.com)/notes/nhs/nhs-strategy.md",
+		"/Users/ryz/Google Drive (rjenvey@thoughtworks.com)/notes/actions.md",
+		"/Users/ryz/Google Drive TW/notes/actions.md",
+		"/Users/ryz/Google Drive (rjenvey@hotmail.co.uk)/docs/Wiosek o obywatelstwo/wniosek-answers.txt",
+		"/Users/ryz/Google Drive TW/notes/development/cultivation-stefan.md",
+		"/Users/ryz/Google Drive TW/notes/development/cultivation-wojciech.md",
+		"/Users/ryz/Downloads/next-steps.md",
+		"/Users/ryz-home/Google Drive TW/notes/guardian/research.md",
+		"/Users/ryz-home/Google Drive TW/notes/guardian/call-notes.md",
+		"/Users/ryz-home/Google Drive TW/notes/actions.md",
+		"/Users/ryz-home/Downloads/stuff/Michel Thomas Complete V3/README.txt",
+		"/Users/ryz-home/Google Drive TW/notes/actions-development.md",
+		"/Volumes/Backups/notes.jex",
+		"/Volumes/G/xfoo.txt",
+		"/Users/ryz-home/Google Drive TW/notes/config/notes.sublime-project",
+		"/Users/ryz-home/Google Drive TW/notes/development/tw-context.md",
+		"/Users/ryz-home/Google Drive TW/notes/development/development.md",
+		"/Users/ryz/Google Drive/notes/local-notes/dealer-credit/dealer-credit.md",
+		"/Users/ryz/Google Drive/notes/temp.md",
+		"/Users/ryz/Google Drive/notes/local-notes/collect.md",
+		"/Users/ryz/Google Drive/notes/local-notes/reference/queries-orgs-locs.txt",
+		"/Users/ryz/Google Drive/notes/local-notes/reference/queries-kibana.md",
+		"/Users/ryz/Google Drive/notes/actions.md",
+		"/Users/ryz/Google Drive/notes/development/tl-runbook.md",
+		"/Users/ryz/Google Drive/notes/local-notes/reference/misc.md",
+		"/Users/ryz/Google Drive/notes/local-notes/reference/121s.md",
+		"/Users/ryz/Google Drive/notes/local-notes/reference/queries-misc.md",
+		"/Users/ryz/local-notes/reference/queries-misc.md",
+		"/Users/ryz/Downloads/2019-11-13-DLQ-Producer-Dealer-organisation-vrm-out.log",
+		"/Users/ryz/Downloads/2019-11-13-DLQ-Dealer-accountNumber-dealerToEnterprise.log",
+		"/Users/ryz/Google Drive/notes/local-notes/archive/misc.md",
+		"/Users/ryz/Google Drive/notes/development/tl-learnings.md",
+		"/Users/ryz/Google Drive/notes/development/development.md",
+		"/Users/ryz/Google Drive/notes/local-notes/reference/queries-orgs-locs.md",
+		"/Users/ryz/Downloads/franchise_flag_orgs_locs_extract.sql",
+		"/Users/ryz/Google Drive/notes/development/tl-toolkit.md",
+		"/Users/ryz/Google Drive/notes/development/untitled",
+		"/Users/ryz/Google Drive/notes/maybe.md",
+		"/Users/ryz/local-notes/dealer-credit/dealer-credit.md",
+		"/Users/ryz/Google Drive/notes/local-notes/dealer-credit/dealer-credit-inception.md",
+		"/Users/ryz/Google Drive/notes/local-notes/reference/queries-ebiz.md",
+		"/Users/ryz/Google Drive/notes/local-notes/reference/using-vrms-ebiz.md",
+		"/Users/ryz/Google Drive/notes/local-notes/archive/ebiz-analysis.md",
+		"/Users/ryz/Google Drive/notes/local-notes/archive/enterprise-analysis.md",
+		"/Users/ryz/Google Drive/notes/local-notes/archive/idaas.md",
+		"/Users/ryz/Google Drive/notes/local-notes/archive/org-ids-mapping-info.md",
+		"/Users/ryz/Google Drive/notes/local-notes/archive/orgs-locs-value.md",
+		"/Users/ryz/Google Drive/notes/local-notes/archive/vrm-support-brownbag.md",
+		"/Users/ryz/Google Drive/notes/development/tldp-notes.md",
+		"/Users/ryz/Google Drive/notes/local-notes/reference/chats.md",
+		"/Users/ryz/Google Drive/notes/development/review.md",
+		"/Users/ryz/local-notes/dealer-credit/maintain_organisation-trigger.sql",
+		"/Users/ryz/local-notes/dealer-credit/dealer-credit-trigger.sql",
+		"/Users/ryz/Google Drive/notes/local-notes/qlist.md",
+		"/Users/ryz/local-notes/ql.md",
+		"/Users/ryz/Google Drive/notes/local-notes/dealer-credit/dealer-credit-notes.md",
+		"/Users/ryz/Google Drive/notes/local-notes/dealer-credit/dealer credit.md",
+		"/Users/ryz/Google Drive/notes/local-notes/dealer-credit-notes.md",
+		"/Users/ryz/Google Drive/notes/local-notes/dealer credit.md",
+		"/Users/ryz/Google Drive/notes/collect.md",
+		"/Users/ryz/Google Drive/notes/config/checkpoint.sh",
+		"/Users/ryz/Google Drive/notes/config/notes.sublime-project",
+		"/Users/ryz/Google Drive/notes/config/README.md",
+		"/Users/ryz/Google Drive/notes/notepad.md",
+		"/Users/ryz/.bash_profile",
+		"/Users/ryz/Google Drive/notes/reference/misc.md",
+		"/Users/ryz/Google Drive/notes/reference/orgs-locs-value.md",
+		"/Users/ryz/Google Drive/notes/orgs-locs-value.txt",
+		"/Users/ryz/Google Drive/notes/notepad.txt",
+		"/Users/ryz/Google Drive/notes/temp.txt",
+		"/Users/ryz/Google Drive/notes/actions.txt",
+		"/Users/ryz/Google Drive/Notes/temp-notes.txt",
+		"/Users/ryz/Google Drive/Notes/collect.txt",
+		"/Users/ryz/Google Drive/Notes/Actions.txt",
+		"/Users/ryz/Downloads/untitled.sublime-project",
+		"/Users/ryz/Google Drive/Joplin Notes/ac2f8a2ce45145c9a6f2d39a332780bb.md",
+		"/Users/ryz/Google Drive/Joplin Notes/383bd14315834dc6a06942645dee5cec.md",
+		"/Users/ryz/Google Drive/Joplin Notes/1916a9f7e76644a887e1643cebdb49fc.md",
+		"/Users/ryz/Google Drive/Joplin Notes/028a48ade40c4579b2fac5a4163cffec.md",
+		"/Users/ryz/Google Drive/Joplin Notes/a863b6aacb484695b2d416105ef2b651.md",
+		"/Users/ryz/Google Drive/Joplin Notes/c650a28b541140ab9c00ed2741340025.md",
+		"/Users/ryz/Google Drive/Joplin Notes/12f9a6c273e64bc1af89a8bef8a146a0.md",
+		"/Users/ryz/Google Drive/Joplin Notes/a00f1338a58d4bc8a26cbcf41c7710c6.md",
+		"/Users/ryz/Documents/proposed_sql.sql",
+		"/Users/ryz/code/dealer-orgs-locs-data-tool/input/mfl_dealer_delivery_address.txt",
+		"/Users/ryz/code/dealer-orgs-locs-data-tool/input/mfl_dealer_all_address.txt",
+		"/Users/ryz/Downloads/sync csv solution.txt",
+		"/Users/ryz/Downloads/Reconciliation steps.txt",
+		"/Users/ryz/Downloads/maag_trigger.sql",
+		"/Users/ryz/Downloads/Enterprise scenarios.txt",
+		"/Users/ryz/Downloads/ol.js",
+		"/Users/ryz/Downloads/adventure-game.txt",
+		"/private/tmp/foo.txt",
+		"/Users/ryz/Downloads/vrm-alfa-acl-secrets (1).yaml",
+		"/Users/ryz/Downloads/ebs-dealer-orgs-locs-acl-secrets (1).yaml",
+		"/Users/ryz/Downloads/vrm-vehicle-amq-secrets.yaml",
+		"/Users/ryz/Downloads/vehicle-data-migration-secrets.yaml",
+		"/Users/ryz/Downloads/migration-plan.txt",
+		"/Users/ryz/Downloads/ebs-dealer-orgs-locs-acl-secrets.yaml",
+		"/Users/ryz/Downloads/vrm-dealer-amq-secrets.yaml",
+		"/Users/ryz/Downloads/2238.txt",
+		"/Users/ryz/Google Drive/reference/software/oc",
+		"/Users/ryz/Downloads/trigger.sql",
+		"/Users/ryz/Downloads/auctionsMapping.txt",
+		"/Users/ryz/Google Drive/Auctions remapping/auctionSummary.xml",
+		"/Users/ryz/Downloads/orgs locs value statement",
+		"/Users/ryz/Downloads/QAS spike",
+		"/Users/ryz/Downloads/dealer-orgs-locs-service-secrets.yaml",
+		"/Users/ryz/Downloads/dealer-orgs-locs-service-secrets (2).yaml",
+		"/Users/ryz/Downloads/dealer-orgs-locs-service-secrets (1).yaml",
+		"/Users/ryz/Google Drive/stories-by-capability.txt",
+		"/Users/ryz/Google Drive/XML_message_from_e2e.xml",
+		"/Users/ryz/Downloads/XML_message_from_e2e.xml",
+		"/Users/ryz/Downloads/stories-by-capability.txt",
+		"/Users/ryz/Downloads/speedback.txt",
+		"/Users/ryz/Downloads/Kibana queries",
+		"/Users/ryz/Downloads/export.json",
+		"/Users/ryz/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ryz/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/ryz/code/scripts/pull",
+		"/Users/ryz/Downloads/ebiz IDs.txt",
+		"/Users/ryz/Downloads/orgsLocs.js",
+		"/Users/ryz/Downloads/vrm-shell-secrets (5).yaml",
+		"/Users/ryz/Downloads/vrm-shell-secrets (4).yaml",
+		"/Users/ryz/Downloads/vrm-shell-secrets (3).yaml"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\t- ",
+			"\\t-",
+			"- ",
+			"event.notification",
+			"dealer.",
+			"dealer",
+			"dealer.",
+			"dealer",
+			">\n",
+			"vrm",
+			"meeting",
+			"\"accountNumber\":",
+			"\"accountNumber\":\"37332\"",
+			"\"accountNumber\":\"400647\"",
+			"\"accountNumber\":\"34050\"",
+			"refund",
+			"alfa",
+			"dealer_credit_cha",
+			"dealer_credit_change",
+			"returnValue",
+			"creditLimitChange",
+			"vrm_changed",
+			"rowcount",
+			"maag",
+			"flow",
+			"Wait",
+			"\n-",
+			"\t\t○ ",
+			"\t• ",
+			"amelia",
+			"credit",
+			"rebecca",
+			"MO",
+			"osmo",
+			"\t• ",
+			"Slice",
+			"\t• "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\t",
+			"",
+			"\t\t- ",
+			"\t- ",
+			"\t-",
+			"\t- ",
+			"- Slice",
+			"- ",
+			"\t- ",
+			"- "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 314.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "notes.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Downloads/untitled.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
